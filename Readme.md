@@ -1,4 +1,4 @@
-# This repo is used for recording all useful web tools while I am designing my Webpae 
+# This repo is used for recording all useful web tools while I am designing my Webpage
 
 ## Some JS library 
 - P5.js [image for artist](https://p5js.org/) This tools is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone (From their website). Click link to play with the codes. (They provide some interesting code.)
